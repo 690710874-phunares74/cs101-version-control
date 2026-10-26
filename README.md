@@ -7,3 +7,6 @@
 - Learn Python programming
 - Learn Git and Github
 - build a personal website
+##technology Interests
+- Aritifical intelligence
+- Game Development
