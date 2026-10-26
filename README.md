@@ -1,2 +1,4 @@
-# cs101-version-control
-My first repository for CS101
+# My CS Profile
+## About me
+- Namne: phunares
+- Major: Computer Science
