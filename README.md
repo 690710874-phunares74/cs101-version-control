@@ -10,3 +10,7 @@
 ## technology Interests
 - Aritifical intelligence
 - Game Development
+  ## skills
+  - Problem solving
+  - Python basics
+  - Teamwork
